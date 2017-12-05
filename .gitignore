@@ -1,0 +1,9 @@
+#Patterns on each line will be ignored in commits and such
+
+exec
+*.out
+*.o
+
+#Patterns that vim leaves behind
+*.swp
+*.gch
